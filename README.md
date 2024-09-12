@@ -36,13 +36,13 @@
 # Key Insights:-
 - Clothing is the most ordered category among Electronics and Furniture.
 - Electronics making the most revenue and profits.
-- Printers, Bookcases, Accessories, Trousers, and Stole are the top subcategories generating revenues.
+- Printers, Bookcases, Accessories, Trousers, and Stoles are the top subcategories generating revenues.
 - Whereas Tables and Electronic games are not profitable to the business.
 - 63% of the orders are Profitable, while 34% are making a Loss and 3% are None.
 - Every Category has achieved the Targeted Sale.
 - The most Profitable months are November and March.
 - Maharashtra is the most profitable state.
-- Tamil Nadu and Punjab are the states which are making losses.<br>
+- Tamil Nadu and Punjab are the states that are making losses.<br>
 
 
 
