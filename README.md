@@ -30,12 +30,13 @@
 - Subqueries
 - Case statements
 - Logical conditions
-- Nested subqueries
+- Window Function
+
   
 -----------------------------------------
 # Key Insights:-
 - Clothing is the most ordered category among Electronics and Furniture.
-- Electronics making the most revenue and profits.
+- Electronics is the most profitable category.
 - Printers, Bookcases, Accessories, Trousers, and Stoles are the top subcategories generating revenues.
 - Whereas Tables and Electronic games are not profitable to the business.
 - 63% of the orders are Profitable, while 34% are making a Loss and 3% are None.
