@@ -1,4 +1,4 @@
-Use ecommerce
+**1. General Queries
 
 -- Total Number of orders 
 Select count(order_id) as Total_Orders
@@ -32,7 +32,8 @@ Select 	 x1.Category, x1.sub_category, x1.Expensive_Product from
 	group by Category,sub_category) x1
 where rn = 1
 
-
+**2. ANALYTICAL QUESTIONS
+	
 -- Find out total Cost for each order ID 
 Select Order_ID, sum(Amount * Quantity) as Total_Cost_Price
 from [Order Details]
