@@ -13,7 +13,7 @@
 - This dataset was found on Kaggle. It includes information on an Indian e-commerce sales dataset that is divided into three CSV files: Sales target, Order details, and List of Orders.
 - List of Orders- This dataset contains purchase information. The information includes ID, Date of Purchase and customer details.
 - Order Details- This dataset contains order ID, with the order price, quantity, profit, category and subcategory of the product.
-- Sales target- This dataset contains the sales target amount and date for each product category.
+- Sales target- This dataset contains the sales, target amount, and date for each product category.
 
 # Approach :-
 - Acquired the e-commerce data from a publicly available source and imported it into a SQL database.
