@@ -120,11 +120,11 @@ from
 	Inner join [Sales target] s on o.Category = s.Category
 	group by o.Category) x1
 
--- Count of orders for each month 
+-- Most Order Month
 Select  MONTH(Order_Date) as Month, COUNT(Order_ID) as Orders
 from [List of Orders] l
 Group by MONTH(Order_Date)
-Order by Month 
+Order by orders desc
 
 -- Which Month is Profitable
 select MONTH(l.Order_Date) as Month, SUM(Profit) As Profit
