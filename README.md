@@ -1,8 +1,6 @@
 ![image](https://github.com/user-attachments/assets/65bbbd35-c186-4857-babe-d186293407f3)
 
 - Title:- **E-commerce Analysis**
-- Created by:- Mitali Bag
-- Date:- 12-09-2024
 - Tool used:- MS SQL Server
 
 # Introduction :-
